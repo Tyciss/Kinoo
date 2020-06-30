@@ -1,0 +1,2 @@
+# Kinoo
+projekt kina
